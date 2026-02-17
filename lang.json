@@ -1,0 +1,34 @@
+{
+  "en": {
+    "title": "Image Tiler",
+    "language": "Language",
+    "preset": "Preset",
+    "resize_w": "Resize Width",
+    "resize_h": "Resize Height",
+    "tile_w": "Tile Width",
+    "tile_h": "Tile Height",
+    "global_colors": "Global Colors",
+    "max_tiles": "Max Tiles",
+    "cluster_method": "Clustering Method",
+    "load_image": "Load Image",
+    "resize_image": "Resize",
+    "convert": "Convert",
+    "export": "Export PNG"
+  },
+  "jp": {
+    "title": "Image Tiler",
+    "language": "言語",
+    "preset": "プリセット",
+    "resize_w": "幅のサイズを変更します",
+    "resize_h": "高さをサイズ変更",
+    "tile_w": "タイルの幅",
+    "tile_h": "タイルの高",
+    "global_colors": "グローバルカラー",
+    "max_tiles": "タイルの数",
+    "cluster_method": "クラスタリング手法",
+    "load_image": "画像を読み込む",
+    "resize_image": "画像のサイズを変更",
+    "convert": "変換",
+    "export": "PNGを輸出する"
+  }
+}
